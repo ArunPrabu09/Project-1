@@ -1,0 +1,201 @@
+Patient_ID,Name,Age,Gender,Department,Doctor,Admit_Date,Discharge_Date,Diagnosis,Treatment
+P001,Priya Patel,66,F,Cardiology,Dr. Nair,2025-05-30,2025-06-10,Cancer,Physiotherapy
+P002,Priya Patel,59,F,Dermatology,Dr. Ghosh,2025-01-08,2025-01-11,Cancer,Stone Removal
+P003,Neha Gupta,58,M,Neurology,Dr. Nair,2025-06-23,2025-07-08,Cancer,Normal Delivery
+P004,Ramesh Kumar,33,F,Cardiology,Dr. Banerjee,2025-08-19,2025-09-03,Ear Infection,Medication
+P005,Vinod Chavan,46,F,Neurology,Dr. Ghosh,2025-01-27,2025-02-06,Fracture,Angioplasty
+P006,Shalini Mishra,63,M,Cardiology,Dr. Nair,2025-08-09,2025-08-17,Stroke,Antibiotics
+P007,Priya Patel,26,M,ENT,Dr. Deshmukh,2025-02-02,2025-02-10,Stroke,Surgery
+P008,Ramesh Kumar,35,F,Gynecology,Dr. Ghosh,2025-04-29,2025-05-08,Kidney Stone,Medication
+P009,Neha Gupta,30,M,Neurology,Dr. Banerjee,2025-06-05,2025-06-18,Pregnancy Checkup,Cataract Surgery
+P010,Rajesh Jain,58,F,ENT,Dr. Kulkarni,2025-04-19,2025-04-28,Cataract,Stone Removal
+P011,Pooja Desai,26,M,Ophthalmology,Dr. Sharma,2025-02-20,2025-03-01,Skin Allergy,Chemotherapy
+P012,Meena Raut,50,F,General Medicine,Dr. Ghosh,2025-04-05,2025-04-14,Heart Attack,Physiotherapy
+P013,Meena Raut,20,M,Oncology,Dr. Nair,2025-02-25,2025-02-28,Ear Infection,Chemotherapy
+P014,Shalini Mishra,34,F,Neurology,Dr. Iyer,2025-03-04,2025-03-18,Ear Infection,Cataract Surgery
+P015,Anjali Verma,47,F,Neurology,Dr. Pawar,2025-05-04,2025-05-14,Ear Infection,Normal Delivery
+P016,Simran Kaur,56,F,Oncology,Dr. Ghosh,2025-01-02,2025-01-16,Cataract,Angioplasty
+P017,Amit Sharma,42,M,Orthopedics,Dr. Deshmukh,2025-03-14,2025-03-20,Fever,Stone Removal
+P018,Shalini Mishra,74,F,Oncology,Dr. Pawar,2025-06-03,2025-06-13,Heart Attack,Stone Removal
+P019,Kavita Joshi,64,F,Ophthalmology,Dr. Mehta,2025-08-07,2025-08-15,Cataract,Medication
+P020,Sneha Kapoor,60,F,Ophthalmology,Dr. Pawar,2025-08-05,2025-08-16,Skin Allergy,Chemotherapy
+P021,Kavita Joshi,28,F,Urology,Dr. Mehta,2025-06-08,2025-06-15,Skin Allergy,IV Fluids + Rest
+P022,Ramesh Kumar,30,M,Gynecology,Dr. Deshmukh,2025-04-01,2025-04-02,Heart Attack,Medication
+P023,Manish Tiwari,27,F,Orthopedics,Dr. Nair,2025-02-24,2025-03-05,Cancer,Normal Delivery
+P024,Rohit Malhotra,77,F,Neurology,Dr. Mehta,2025-03-09,2025-03-16,Skin Allergy,Stone Removal
+P025,Rajesh Jain,76,M,Urology,Dr. Ghosh,2025-08-13,2025-08-17,Pregnancy Checkup,Antibiotics
+P026,Nikhil Bhosale,20,M,Neurology,Dr. Pawar,2025-05-31,2025-06-11,Skin Allergy,Chemotherapy
+P027,Arjun Singh,19,M,Gynecology,Dr. Reddy,2025-04-11,2025-04-13,Skin Allergy,Medication
+P028,Suresh Yadav,59,F,General Medicine,Dr. Ghosh,2025-05-18,2025-05-28,Cataract,IV Fluids + Rest
+P029,Arjun Singh,76,F,Gynecology,Dr. Ghosh,2025-08-01,2025-08-06,Fracture,Angioplasty
+P030,Amit Sharma,79,M,Neurology,Dr. Banerjee,2025-08-05,2025-08-17,Heart Attack,Physiotherapy
+P031,Meena Raut,25,M,General Medicine,Dr. Deshmukh,2025-08-22,2025-09-06,Skin Allergy,Chemotherapy
+P032,Meena Raut,31,F,Orthopedics,Dr. Reddy,2025-01-17,2025-01-29,Fever,IV Fluids + Rest
+P033,Manish Tiwari,67,F,Dermatology,Dr. Pawar,2025-04-01,2025-04-13,Cataract,Physiotherapy
+P034,Kavita Joshi,55,M,Orthopedics,Dr. Banerjee,2025-03-21,2025-04-01,Skin Allergy,Antibiotics
+P035,Shalini Mishra,18,M,Dermatology,Dr. Sharma,2025-05-10,2025-05-11,Cataract,Medication
+P036,Kavita Joshi,19,F,Urology,Dr. Mehta,2025-08-18,2025-08-21,Fever,Stone Removal
+P037,Simran Kaur,59,F,ENT,Dr. Kulkarni,2025-09-01,2025-09-08,Skin Allergy,Physiotherapy
+P038,Ramesh Kumar,19,M,Neurology,Dr. Kulkarni,2025-04-27,2025-05-09,Cancer,Medication
+P039,Suresh Yadav,58,M,Oncology,Dr. Reddy,2025-03-05,2025-03-19,Skin Allergy,IV Fluids + Rest
+P040,Rajesh Jain,45,M,Cardiology,Dr. Nair,2025-09-02,2025-09-08,Fracture,Stone Removal
+P041,Arjun Singh,63,F,Neurology,Dr. Iyer,2025-03-19,2025-03-26,Ear Infection,Antibiotics
+P042,Ramesh Kumar,38,M,Gynecology,Dr. Deshmukh,2025-07-07,2025-07-17,Fever,Angioplasty
+P043,Amit Sharma,57,F,Urology,Dr. Sharma,2025-05-06,2025-05-17,Cancer,Normal Delivery
+P044,Rajesh Jain,34,F,Orthopedics,Dr. Iyer,2025-05-05,2025-05-17,Stroke,Medication
+P045,Simran Kaur,54,M,Cardiology,Dr. Kulkarni,2025-06-25,2025-07-08,Ear Infection,Normal Delivery
+P046,Anjali Verma,45,M,Orthopedics,Dr. Ghosh,2025-06-01,2025-06-02,Skin Allergy,IV Fluids + Rest
+P047,Manish Tiwari,43,M,General Medicine,Dr. Ghosh,2025-06-23,2025-07-04,Cataract,Medication
+P048,Rohit Malhotra,45,F,Ophthalmology,Dr. Reddy,2025-06-20,2025-06-21,Pregnancy Checkup,Stone Removal
+P049,Salman Shaikh,46,F,ENT,Dr. Kulkarni,2025-01-02,2025-01-03,Fever,Medication
+P050,Nikhil Bhosale,66,M,ENT,Dr. Deshmukh,2025-09-05,2025-09-16,Stroke,Physiotherapy
+P051,Kavita Joshi,27,M,Ophthalmology,Dr. Ghosh,2025-03-06,2025-03-19,Kidney Stone,Normal Delivery
+P052,Divya Nair,18,M,Orthopedics,Dr. Reddy,2025-09-07,2025-09-21,Heart Attack,Cataract Surgery
+P053,Arjun Singh,26,M,General Medicine,Dr. Nair,2025-07-13,2025-07-23,Stroke,Medication
+P054,Rajesh Jain,19,M,Urology,Dr. Pawar,2025-04-30,2025-05-02,Fracture,IV Fluids + Rest
+P055,Rohit Malhotra,60,M,Urology,Dr. Iyer,2025-07-29,2025-08-04,Cancer,Normal Delivery
+P056,Rohit Malhotra,70,M,Ophthalmology,Dr. Ghosh,2025-02-08,2025-02-09,Cataract,Normal Delivery
+P057,Rajesh Jain,57,M,Dermatology,Dr. Banerjee,2025-02-22,2025-03-02,Fracture,IV Fluids + Rest
+P058,Rajesh Jain,18,F,Neurology,Dr. Kulkarni,2025-07-22,2025-07-24,Pregnancy Checkup,Medication
+P059,Kavita Joshi,61,M,Urology,Dr. Sharma,2025-05-31,2025-06-11,Fracture,Surgery
+P060,Ramesh Kumar,19,F,Oncology,Dr. Iyer,2025-07-18,2025-07-19,Skin Allergy,Angioplasty
+P061,Pooja Desai,18,M,Cardiology,Dr. Reddy,2025-05-15,2025-05-30,Cataract,Normal Delivery
+P062,Arjun Singh,50,M,Neurology,Dr. Deshmukh,2025-05-25,2025-06-07,Skin Allergy,Physiotherapy
+P063,Arjun Singh,50,F,Urology,Dr. Banerjee,2025-09-03,2025-09-09,Heart Attack,IV Fluids + Rest
+P064,Rajesh Jain,75,M,Gynecology,Dr. Iyer,2025-07-25,2025-08-09,Cataract,Chemotherapy
+P065,Arjun Singh,18,F,Orthopedics,Dr. Nair,2025-04-15,2025-04-16,Heart Attack,Physiotherapy
+P066,Pooja Desai,40,M,Urology,Dr. Nair,2025-01-16,2025-01-29,Stroke,Normal Delivery
+P067,Kavita Joshi,53,M,Neurology,Dr. Mehta,2025-06-08,2025-06-09,Kidney Stone,Antibiotics
+P068,Arjun Singh,47,F,General Medicine,Dr. Ghosh,2025-06-10,2025-06-20,Cataract,Medication
+P069,Shalini Mishra,75,M,Orthopedics,Dr. Sharma,2025-03-13,2025-03-22,Stroke,Normal Delivery
+P070,Suresh Yadav,46,F,Oncology,Dr. Ghosh,2025-08-12,2025-08-23,Pregnancy Checkup,Physiotherapy
+P071,Kavita Joshi,80,F,Gynecology,Dr. Mehta,2025-01-21,2025-01-22,Fever,Chemotherapy
+P072,Simran Kaur,73,M,Orthopedics,Dr. Ghosh,2025-09-15,2025-09-17,Skin Allergy,IV Fluids + Rest
+P073,Amit Sharma,37,M,Ophthalmology,Dr. Iyer,2025-08-09,2025-08-18,Pregnancy Checkup,Normal Delivery
+P074,Priya Patel,77,M,Neurology,Dr. Pawar,2025-01-11,2025-01-14,Cataract,Stone Removal
+P075,Ramesh Kumar,44,M,Cardiology,Dr. Deshmukh,2025-04-20,2025-05-05,Kidney Stone,Angioplasty
+P076,Nikhil Bhosale,25,M,Oncology,Dr. Banerjee,2025-09-15,2025-09-30,Heart Attack,Surgery
+P077,Priya Patel,22,F,Gynecology,Dr. Kulkarni,2025-01-16,2025-01-25,Stroke,Surgery
+P078,Simran Kaur,31,M,General Medicine,Dr. Kulkarni,2025-06-28,2025-06-29,Fever,IV Fluids + Rest
+P079,Nikhil Bhosale,56,F,Urology,Dr. Iyer,2025-03-13,2025-03-23,Cataract,Medication
+P080,Shalini Mishra,42,F,General Medicine,Dr. Iyer,2025-02-18,2025-02-25,Fracture,Surgery
+P081,Vinod Chavan,35,F,Cardiology,Dr. Ghosh,2025-05-12,2025-05-27,Stroke,Physiotherapy
+P082,Neha Gupta,60,M,ENT,Dr. Pawar,2025-02-01,2025-02-06,Pregnancy Checkup,IV Fluids + Rest
+P083,Arjun Singh,23,M,Oncology,Dr. Nair,2025-07-21,2025-07-24,Cancer,Medication
+P084,Sneha Kapoor,20,M,Neurology,Dr. Mehta,2025-06-01,2025-06-11,Fracture,Normal Delivery
+P085,Kavita Joshi,42,F,General Medicine,Dr. Sharma,2025-05-01,2025-05-13,Stroke,Physiotherapy
+P086,Simran Kaur,21,F,Dermatology,Dr. Reddy,2025-01-21,2025-01-23,Ear Infection,Physiotherapy
+P087,Suresh Yadav,23,M,ENT,Dr. Sharma,2025-05-02,2025-05-05,Ear Infection,Cataract Surgery
+P088,Amit Sharma,20,F,Ophthalmology,Dr. Mehta,2025-05-02,2025-05-15,Stroke,Chemotherapy
+P089,Vinod Chavan,68,M,General Medicine,Dr. Banerjee,2025-01-08,2025-01-18,Kidney Stone,Medication
+P090,Manish Tiwari,80,M,Orthopedics,Dr. Deshmukh,2025-01-09,2025-01-23,Heart Attack,Surgery
+P091,Salman Shaikh,47,M,Ophthalmology,Dr. Reddy,2025-05-31,2025-06-12,Pregnancy Checkup,Physiotherapy
+P092,Suresh Yadav,33,F,Urology,Dr. Kulkarni,2025-01-23,2025-02-05,Skin Allergy,Physiotherapy
+P093,Neha Gupta,18,F,Orthopedics,Dr. Kulkarni,2025-06-12,2025-06-18,Skin Allergy,Surgery
+P094,Pooja Desai,50,M,Urology,Dr. Sharma,2025-05-02,2025-05-06,Cataract,Chemotherapy
+P095,Neha Gupta,49,M,Oncology,Dr. Iyer,2025-08-28,2025-08-30,Fever,Medication
+P096,Suresh Yadav,79,M,Ophthalmology,Dr. Mehta,2025-04-16,2025-05-01,Fever,Angioplasty
+P097,Pooja Desai,69,M,Dermatology,Dr. Nair,2025-04-03,2025-04-14,Fracture,Medication
+P098,Suresh Yadav,62,M,Ophthalmology,Dr. Nair,2025-06-11,2025-06-14,Fever,Angioplasty
+P099,Simran Kaur,50,M,Urology,Dr. Iyer,2025-05-31,2025-06-04,Stroke,Antibiotics
+P100,Suresh Yadav,33,M,Gynecology,Dr. Sharma,2025-03-13,2025-03-15,Ear Infection,Angioplasty
+P101,Vinod Chavan,75,M,Cardiology,Dr. Deshmukh,2025-07-28,2025-07-30,Cancer,Cataract Surgery
+P102,Sneha Kapoor,38,M,Ophthalmology,Dr. Kulkarni,2025-05-25,2025-06-08,Heart Attack,Normal Delivery
+P103,Divya Nair,42,M,Cardiology,Dr. Reddy,2025-08-01,2025-08-05,Cataract,Chemotherapy
+P104,Amit Sharma,39,M,Neurology,Dr. Pawar,2025-07-07,2025-07-11,Pregnancy Checkup,Angioplasty
+P105,Anjali Verma,50,M,ENT,Dr. Reddy,2025-01-14,2025-01-17,Fever,Antibiotics
+P106,Simran Kaur,67,M,Orthopedics,Dr. Pawar,2025-07-18,2025-07-20,Cataract,Chemotherapy
+P107,Manish Tiwari,41,M,ENT,Dr. Mehta,2025-08-26,2025-08-29,Ear Infection,IV Fluids + Rest
+P108,Shalini Mishra,41,M,Orthopedics,Dr. Nair,2025-07-02,2025-07-16,Heart Attack,Stone Removal
+P109,Simran Kaur,20,F,Cardiology,Dr. Nair,2025-09-10,2025-09-18,Heart Attack,IV Fluids + Rest
+P110,Manish Tiwari,39,F,Gynecology,Dr. Nair,2025-01-25,2025-02-05,Heart Attack,Cataract Surgery
+P111,Priya Patel,19,F,Cardiology,Dr. Mehta,2025-08-27,2025-09-11,Fracture,Physiotherapy
+P112,Vinod Chavan,39,M,Dermatology,Dr. Ghosh,2025-03-12,2025-03-21,Fracture,Normal Delivery
+P113,Anjali Verma,52,M,Cardiology,Dr. Pawar,2025-07-06,2025-07-11,Ear Infection,Physiotherapy
+P114,Salman Shaikh,77,F,Neurology,Dr. Nair,2025-01-12,2025-01-15,Skin Allergy,IV Fluids + Rest
+P115,Vinod Chavan,69,F,Gynecology,Dr. Banerjee,2025-03-16,2025-03-26,Fracture,Stone Removal
+P116,Shalini Mishra,51,M,Urology,Dr. Sharma,2025-05-07,2025-05-22,Pregnancy Checkup,Physiotherapy
+P117,Meena Raut,73,F,General Medicine,Dr. Sharma,2025-07-13,2025-07-25,Pregnancy Checkup,Angioplasty
+P118,Neha Gupta,57,M,Orthopedics,Dr. Pawar,2025-01-04,2025-01-05,Stroke,Normal Delivery
+P119,Suresh Yadav,36,F,Urology,Dr. Nair,2025-05-02,2025-05-03,Pregnancy Checkup,Normal Delivery
+P120,Sneha Kapoor,21,M,Neurology,Dr. Sharma,2025-02-27,2025-02-28,Cancer,Antibiotics
+P121,Meena Raut,41,F,Urology,Dr. Sharma,2025-05-05,2025-05-20,Cancer,Surgery
+P122,Shalini Mishra,22,F,Oncology,Dr. Pawar,2025-01-05,2025-01-15,Stroke,Chemotherapy
+P123,Ramesh Kumar,66,M,Ophthalmology,Dr. Sharma,2025-06-03,2025-06-14,Cataract,Chemotherapy
+P124,Kavita Joshi,66,M,Urology,Dr. Deshmukh,2025-02-02,2025-02-08,Fracture,Chemotherapy
+P125,Neha Gupta,51,M,Cardiology,Dr. Pawar,2025-08-29,2025-09-08,Fracture,Surgery
+P126,Salman Shaikh,66,F,Oncology,Dr. Kulkarni,2025-04-29,2025-05-04,Cataract,Physiotherapy
+P127,Priya Patel,60,F,Orthopedics,Dr. Deshmukh,2025-09-08,2025-09-21,Kidney Stone,Antibiotics
+P128,Divya Nair,75,M,Oncology,Dr. Banerjee,2025-02-02,2025-02-17,Fracture,Physiotherapy
+P129,Vinod Chavan,44,M,Cardiology,Dr. Sharma,2025-09-18,2025-10-01,Fever,Stone Removal
+P130,Amit Sharma,69,M,Oncology,Dr. Pawar,2025-08-26,2025-09-09,Heart Attack,Physiotherapy
+P131,Manish Tiwari,53,M,Cardiology,Dr. Banerjee,2025-04-21,2025-05-02,Kidney Stone,Normal Delivery
+P132,Salman Shaikh,18,M,Dermatology,Dr. Banerjee,2025-09-07,2025-09-20,Ear Infection,Stone Removal
+P133,Rohit Malhotra,79,M,Dermatology,Dr. Banerjee,2025-07-05,2025-07-06,Fracture,Stone Removal
+P134,Meena Raut,65,M,Oncology,Dr. Pawar,2025-03-30,2025-04-08,Kidney Stone,Normal Delivery
+P135,Anjali Verma,27,M,Gynecology,Dr. Mehta,2025-06-23,2025-07-04,Fracture,Normal Delivery
+P136,Manish Tiwari,47,F,General Medicine,Dr. Nair,2025-08-11,2025-08-26,Fracture,Chemotherapy
+P137,Shalini Mishra,35,M,Oncology,Dr. Banerjee,2025-09-08,2025-09-12,Kidney Stone,IV Fluids + Rest
+P138,Pooja Desai,46,F,General Medicine,Dr. Kulkarni,2025-01-01,2025-01-06,Pregnancy Checkup,Stone Removal
+P139,Suresh Yadav,52,F,Neurology,Dr. Ghosh,2025-04-13,2025-04-22,Skin Allergy,Antibiotics
+P140,Manish Tiwari,32,M,Oncology,Dr. Kulkarni,2025-03-17,2025-03-23,Kidney Stone,Angioplasty
+P141,Vinod Chavan,45,M,Dermatology,Dr. Deshmukh,2025-06-02,2025-06-06,Fever,Surgery
+P142,Pooja Desai,75,F,General Medicine,Dr. Ghosh,2025-07-22,2025-08-05,Ear Infection,IV Fluids + Rest
+P143,Amit Sharma,73,M,Oncology,Dr. Mehta,2025-01-28,2025-01-30,Cancer,Angioplasty
+P144,Priya Patel,50,F,Cardiology,Dr. Iyer,2025-07-04,2025-07-14,Fever,Stone Removal
+P145,Priya Patel,45,F,Cardiology,Dr. Deshmukh,2025-07-13,2025-07-21,Pregnancy Checkup,Medication
+P146,Sneha Kapoor,67,F,Gynecology,Dr. Banerjee,2025-08-21,2025-09-04,Pregnancy Checkup,Stone Removal
+P147,Amit Sharma,18,F,Ophthalmology,Dr. Mehta,2025-01-28,2025-02-11,Fracture,Cataract Surgery
+P148,Anjali Verma,72,F,Oncology,Dr. Pawar,2025-04-24,2025-05-04,Heart Attack,Chemotherapy
+P149,Kavita Joshi,23,M,Dermatology,Dr. Ghosh,2025-02-22,2025-02-23,Heart Attack,Surgery
+P150,Meena Raut,32,F,Neurology,Dr. Reddy,2025-05-18,2025-06-01,Cataract,Chemotherapy
+P151,Meena Raut,72,F,Orthopedics,Dr. Deshmukh,2025-02-21,2025-03-01,Stroke,Chemotherapy
+P152,Amit Sharma,76,M,General Medicine,Dr. Sharma,2025-06-05,2025-06-12,Skin Allergy,Angioplasty
+P153,Rajesh Jain,74,M,Cardiology,Dr. Pawar,2025-01-10,2025-01-21,Cataract,Medication
+P154,Vinod Chavan,69,M,Orthopedics,Dr. Deshmukh,2025-09-08,2025-09-13,Fracture,Medication
+P155,Arjun Singh,54,F,Orthopedics,Dr. Sharma,2025-02-21,2025-02-22,Skin Allergy,Stone Removal
+P156,Ramesh Kumar,18,F,Ophthalmology,Dr. Ghosh,2025-01-21,2025-02-01,Pregnancy Checkup,Medication
+P157,Neha Gupta,56,M,Orthopedics,Dr. Pawar,2025-09-01,2025-09-15,Stroke,Chemotherapy
+P158,Kavita Joshi,57,M,Dermatology,Dr. Deshmukh,2025-09-16,2025-09-25,Heart Attack,Angioplasty
+P159,Amit Sharma,52,F,Oncology,Dr. Nair,2025-03-15,2025-03-25,Fever,Angioplasty
+P160,Rohit Malhotra,65,M,Ophthalmology,Dr. Kulkarni,2025-03-08,2025-03-22,Skin Allergy,Normal Delivery
+P161,Simran Kaur,50,F,Dermatology,Dr. Nair,2025-05-11,2025-05-20,Heart Attack,Stone Removal
+P162,Arjun Singh,33,M,Gynecology,Dr. Iyer,2025-04-16,2025-04-20,Cataract,Cataract Surgery
+P163,Shalini Mishra,26,F,Cardiology,Dr. Reddy,2025-07-20,2025-07-26,Fracture,IV Fluids + Rest
+P164,Nikhil Bhosale,67,M,Oncology,Dr. Sharma,2025-08-03,2025-08-11,Cancer,Medication
+P165,Kavita Joshi,71,F,Cardiology,Dr. Nair,2025-04-13,2025-04-17,Kidney Stone,Antibiotics
+P166,Priya Patel,71,F,Dermatology,Dr. Nair,2025-02-17,2025-02-25,Fever,Chemotherapy
+P167,Arjun Singh,54,M,General Medicine,Dr. Kulkarni,2025-07-11,2025-07-14,Cataract,Physiotherapy
+P168,Amit Sharma,27,M,Dermatology,Dr. Pawar,2025-04-14,2025-04-28,Cancer,Surgery
+P169,Simran Kaur,44,F,General Medicine,Dr. Ghosh,2025-05-05,2025-05-11,Skin Allergy,Cataract Surgery
+P170,Meena Raut,47,F,Orthopedics,Dr. Deshmukh,2025-07-07,2025-07-16,Kidney Stone,Physiotherapy
+P171,Simran Kaur,74,M,Cardiology,Dr. Deshmukh,2025-07-29,2025-08-13,Cataract,IV Fluids + Rest
+P172,Ramesh Kumar,29,M,Oncology,Dr. Reddy,2025-04-17,2025-04-29,Heart Attack,Normal Delivery
+P173,Simran Kaur,61,M,Ophthalmology,Dr. Nair,2025-05-30,2025-06-07,Heart Attack,Chemotherapy
+P174,Sneha Kapoor,76,F,ENT,Dr. Deshmukh,2025-03-30,2025-04-08,Skin Allergy,Normal Delivery
+P175,Rajesh Jain,28,M,Gynecology,Dr. Nair,2025-06-10,2025-06-13,Ear Infection,Normal Delivery
+P176,Suresh Yadav,49,F,Dermatology,Dr. Nair,2025-05-24,2025-06-05,Stroke,Stone Removal
+P177,Suresh Yadav,21,F,Gynecology,Dr. Deshmukh,2025-02-02,2025-02-11,Fracture,IV Fluids + Rest
+P178,Neha Gupta,76,F,Cardiology,Dr. Pawar,2025-01-12,2025-01-18,Cataract,Chemotherapy
+P179,Neha Gupta,41,F,Cardiology,Dr. Banerjee,2025-07-24,2025-08-07,Heart Attack,Stone Removal
+P180,Salman Shaikh,55,F,General Medicine,Dr. Mehta,2025-01-25,2025-02-04,Fracture,Surgery
+P181,Shalini Mishra,19,F,Ophthalmology,Dr. Iyer,2025-04-11,2025-04-21,Pregnancy Checkup,Angioplasty
+P182,Vinod Chavan,23,M,Oncology,Dr. Ghosh,2025-05-27,2025-06-09,Cancer,Surgery
+P183,Rohit Malhotra,30,M,Urology,Dr. Kulkarni,2025-07-14,2025-07-27,Fracture,Normal Delivery
+P184,Divya Nair,19,F,Ophthalmology,Dr. Kulkarni,2025-02-23,2025-03-09,Cataract,Normal Delivery
+P185,Divya Nair,68,F,Ophthalmology,Dr. Sharma,2025-06-15,2025-06-27,Fracture,Medication
+P186,Suresh Yadav,44,F,Oncology,Dr. Ghosh,2025-02-27,2025-03-03,Skin Allergy,Surgery
+P187,Neha Gupta,18,M,Dermatology,Dr. Kulkarni,2025-03-02,2025-03-05,Cataract,IV Fluids + Rest
+P188,Shalini Mishra,77,F,Oncology,Dr. Iyer,2025-06-21,2025-06-23,Fever,Surgery
+P189,Vinod Chavan,36,M,Oncology,Dr. Nair,2025-04-18,2025-04-30,Heart Attack,Normal Delivery
+P190,Anjali Verma,34,M,General Medicine,Dr. Sharma,2025-07-29,2025-08-06,Fracture,Normal Delivery
+P191,Kavita Joshi,61,M,Oncology,Dr. Ghosh,2025-05-14,2025-05-18,Pregnancy Checkup,Surgery
+P192,Shalini Mishra,19,F,Neurology,Dr. Deshmukh,2025-09-05,2025-09-06,Fever,Surgery
+P193,Divya Nair,35,M,Ophthalmology,Dr. Reddy,2025-04-24,2025-04-27,Ear Infection,Chemotherapy
+P194,Arjun Singh,26,M,Cardiology,Dr. Pawar,2025-02-03,2025-02-15,Ear Infection,Normal Delivery
+P195,Rajesh Jain,52,M,Orthopedics,Dr. Mehta,2025-05-26,2025-06-07,Kidney Stone,Cataract Surgery
+P196,Arjun Singh,56,F,Gynecology,Dr. Kulkarni,2025-01-24,2025-01-28,Ear Infection,IV Fluids + Rest
+P197,Anjali Verma,54,F,Dermatology,Dr. Nair,2025-01-07,2025-01-15,Fracture,Physiotherapy
+P198,Simran Kaur,79,F,Orthopedics,Dr. Reddy,2025-01-22,2025-02-05,Ear Infection,Cataract Surgery
+P199,Kavita Joshi,59,F,Dermatology,Dr. Banerjee,2025-05-20,2025-06-01,Ear Infection,Cataract Surgery
+P200,Priya Patel,34,M,General Medicine,Dr. Reddy,2025-08-05,2025-08-18,Kidney Stone,Medication
